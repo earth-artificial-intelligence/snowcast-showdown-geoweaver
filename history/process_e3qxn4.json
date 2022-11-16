@@ -1,0 +1,11 @@
+[{
+  "history_id" : "0b8n2pjvk4w",
+  "history_input" : "import torch\ncalcdevice = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n\nimport models_addons as addons\n# import models.catboost as catboost\nimport models_functions as functions\nfrom models_models import Model,Model3\nfrom models_oanet4s import DLOA,Model0\nfrom models_apply import apply,valid_bs,applymodels\nfrom models_inference import inference, test, getests\nfrom models_loadmodels import loadmodels",
+  "history_output" : "",
+  "history_begin_time" : 1668624354996,
+  "history_end_time" : 1668624356673,
+  "history_notes" : null,
+  "history_process" : "e3qxn4",
+  "host_id" : "100001",
+  "indicator" : "Done"
+},]

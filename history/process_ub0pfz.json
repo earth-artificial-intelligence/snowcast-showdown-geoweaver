@@ -1,0 +1,271 @@
+[{
+  "history_id" : "4paq38z7l6u",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "data\\modis.py: Modis dir is /var/folders/gl/8p9421ps1pj_ggqtwxl41s900000gn/T/modis contain 0 files\nCannot use data.modis. Install requirements\n",
+  "history_begin_time" : 1668624353241,
+  "history_end_time" : 1668624360304,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : "100001",
+  "indicator" : "Done"
+},{
+  "history_id" : "lekYkAyNXfB2",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "data\\modis.py: Modis dir is /var/folders/gl/8p9421ps1pj_ggqtwxl41s900000gn/T/modis contain 0 files\nCannot use data.modis. Install requirements\n",
+  "history_begin_time" : 1667951277603,
+  "history_end_time" : 1667951282662,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "Cu2LWXk83omu",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\n",
+  "history_begin_time" : 1667948754029,
+  "history_end_time" : 1667948757271,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "2yjpc8HruLod",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\n",
+  "history_begin_time" : 1667948664763,
+  "history_end_time" : 1667948682866,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "cU9vTdsfaHdV",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/cU9vTdsfaHdV/features_constFeatures.py\", line 11, in <module>\n    from scipy import interpolate\nModuleNotFoundError: No module named 'scipy'\n",
+  "history_begin_time" : 1667948601685,
+  "history_end_time" : 1667948607791,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "Og8SZdCjmmlU",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/Og8SZdCjmmlU/features_constFeatures.py\", line 6, in <module>\n    import netCDF4\nModuleNotFoundError: No module named 'netCDF4'\n",
+  "history_begin_time" : 1667948574071,
+  "history_end_time" : 1667948580820,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "1o2bL7xFWoRt",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/1o2bL7xFWoRt/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/1o2bL7xFWoRt/models_init.py\", line 7, in <module>\n    from models_models import Model,Model3\n  File \"/Users/uhhmed/gw-workspace/1o2bL7xFWoRt/models_models.py\", line 3, in <module>\n    from models_oanet4s import DLOA, Parameter, Model0\n  File \"/Users/uhhmed/gw-workspace/1o2bL7xFWoRt/models_oanet4s.py\", line 6, in <module>\n    import matplotlib.pyplot as plt\nModuleNotFoundError: No module named 'matplotlib'\n",
+  "history_begin_time" : 1667948535322,
+  "history_end_time" : 1667948544157,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "bHWcgBllNFtf",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/bHWcgBllNFtf/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/bHWcgBllNFtf/models_init.py\", line 4, in <module>\n    import models_addons as addons\n  File \"/Users/uhhmed/gw-workspace/bHWcgBllNFtf/models_addons.py\", line 9, in <module>\n    from pandas.api.types import is_datetime64_any_dtype as is_datetime\nModuleNotFoundError: No module named 'pandas'\n",
+  "history_begin_time" : 1667948489074,
+  "history_end_time" : 1667948500591,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "SGCQRqokuN3r",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/SGCQRqokuN3r/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/SGCQRqokuN3r/models_init.py\", line 1, in <module>\n    import torch\nModuleNotFoundError: No module named 'torch'\n",
+  "history_begin_time" : 1667948394550,
+  "history_end_time" : 1667948415089,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "CVLPvaRrGYom",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/CVLPvaRrGYom/features_constFeatures.py\", line 1, in <module>\n    import cv2\nModuleNotFoundError: No module named 'cv2'\n",
+  "history_begin_time" : 1667948340134,
+  "history_end_time" : 1667948340210,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "XiNRabXemnJa",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\n",
+  "history_begin_time" : 1667947184123,
+  "history_end_time" : 1667947187256,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "HMc1gVChjfSj",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\nTraceback (most recent call last):\n  File \"features_init.py\", line 7, in <module>\n    from features_inputs import getinputs\n  File \"/Users/uhhmed/gw-workspace/HMc1gVChjfSj/features_inputs.py\", line 8, in <module>\n    from features_init import getdays\n  File \"/Users/uhhmed/gw-workspace/HMc1gVChjfSj/features_init.py\", line 7, in <module>\n    from features_inputs import getinputs\nImportError: cannot import name 'getinputs' from partially initialized module 'features_inputs' (most likely due to a circular import) (/Users/uhhmed/gw-workspace/HMc1gVChjfSj/features_inputs.py)\n",
+  "history_begin_time" : 1667947093329,
+  "history_end_time" : 1667947096732,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "Hr8wMzLGcU6X",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\nTraceback (most recent call last):\n  File \"features_init.py\", line 7, in <module>\n    from features_inputs import getinputs\n  File \"/Users/uhhmed/gw-workspace/Hr8wMzLGcU6X/features_inputs.py\", line 8\n    import features_init import getdays\n                         ^\nSyntaxError: invalid syntax\n",
+  "history_begin_time" : 1667947073147,
+  "history_end_time" : 1667947077565,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "tAdcihw57IBT",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\nTraceback (most recent call last):\n  File \"features_init.py\", line 7, in <module>\n    from features_inputs import getinputs\n  File \"/Users/uhhmed/gw-workspace/tAdcihw57IBT/features_inputs.py\", line 8, in <module>\n    import features_init as features\n  File \"/Users/uhhmed/gw-workspace/tAdcihw57IBT/features_init.py\", line 7, in <module>\n    from features_inputs import getinputs\nImportError: cannot import name 'getinputs' from partially initialized module 'features_inputs' (most likely due to a circular import) (/Users/uhhmed/gw-workspace/tAdcihw57IBT/features_inputs.py)\n",
+  "history_begin_time" : 1667946944114,
+  "history_end_time" : 1667946948992,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "XgtbTy9G5zFa",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\nTraceback (most recent call last):\n  File \"features_init.py\", line 5, in <module>\n    from features_datadict import getdatadict\n  File \"/Users/uhhmed/gw-workspace/XgtbTy9G5zFa/features_datadict.py\", line 8, in <module>\n    import features_init as features\n  File \"/Users/uhhmed/gw-workspace/XgtbTy9G5zFa/features_init.py\", line 5, in <module>\n    from features_datadict import getdatadict\nImportError: cannot import name 'getdatadict' from partially initialized module 'features_datadict' (most likely due to a circular import) (/Users/uhhmed/gw-workspace/XgtbTy9G5zFa/features_datadict.py)\n",
+  "history_begin_time" : 1667946506694,
+  "history_end_time" : 1667946510414,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "9psf9fN08Kqw",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\nTraceback (most recent call last):\n  File \"features_init.py\", line 5, in <module>\n    from features_datadict import getdatadict\n  File \"/Users/uhhmed/gw-workspace/9psf9fN08Kqw/features_datadict.py\", line 8, in <module>\n    import features\nModuleNotFoundError: No module named 'features'\n",
+  "history_begin_time" : 1667946486567,
+  "history_end_time" : 1667946489894,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "EeqZ9rsskrzQ",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Cannot use data.modis. Install requirements\nTraceback (most recent call last):\n  File \"features_init.py\", line 5, in <module>\n    from features_datadict import getdatadict\n  File \"/Users/uhhmed/gw-workspace/EeqZ9rsskrzQ/features_datadict.py\", line 5, in <module>\n    from models import Model0\nModuleNotFoundError: No module named 'models'\n",
+  "history_begin_time" : 1667946405282,
+  "history_end_time" : 1667946410771,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "CTrawKKQSrfE",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/CTrawKKQSrfE/features_constFeatures.py\", line 16, in <module>\n    import data_init as data\n  File \"/Users/uhhmed/gw-workspace/CTrawKKQSrfE/data_init.py\", line 1, in <module>\n    from data_dem import getdem\n  File \"/Users/uhhmed/gw-workspace/CTrawKKQSrfE/data_dem.py\", line 7, in <module>\n    import planetary_computer\nModuleNotFoundError: No module named 'planetary_computer'\n",
+  "history_begin_time" : 1667946346606,
+  "history_end_time" : 1667946349560,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "HCUOaHBoCvot",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/HCUOaHBoCvot/features_constFeatures.py\", line 16, in <module>\n    import data\nModuleNotFoundError: No module named 'data'\n",
+  "history_begin_time" : 1667946061616,
+  "history_end_time" : 1667946065654,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "3tRCPsB3iP3T",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/3tRCPsB3iP3T/features_constFeatures.py\", line 14, in <module>\n    import wget\nModuleNotFoundError: No module named 'wget'\n",
+  "history_begin_time" : 1667946012438,
+  "history_end_time" : 1667946015505,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "bPXcclXnmRt5",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/bPXcclXnmRt5/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/bPXcclXnmRt5/models_init.py\", line 7, in <module>\n    from models_models import Model,Model3\n  File \"/Users/uhhmed/gw-workspace/bPXcclXnmRt5/models_models.py\", line 3, in <module>\n    from models_oanet4s import DLOA, Parameter, Model0\n  File \"/Users/uhhmed/gw-workspace/bPXcclXnmRt5/models_oanet4s.py\", line 473, in <module>\n    Model0 = DLOA(0,1,0,implicit=False,edging=True,rmax=1.,usee=False,biased=False,relativer=True).eval()\n  File \"/Users/uhhmed/gw-workspace/bPXcclXnmRt5/models_oanet4s.py\", line 280, in __init__\n    self.dist = DistOA(nkf, neddvalgrad=self.biased or self.sigmed or neddvalgrad, calcsd=calcsd, \n  File \"/Users/uhhmed/gw-workspace/bPXcclXnmRt5/models_oanet4s.py\", line 134, in __init__\n    self.softdot = functions.softdot1.apply if neddvalgrad else functions.softdot.apply\nNameError: name 'functions' is not defined\n",
+  "history_begin_time" : 1667945929776,
+  "history_end_time" : 1667945932417,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "KVUvhl9AODHt",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/KVUvhl9AODHt/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/KVUvhl9AODHt/models_init.py\", line 7, in <module>\n    from models_models import Model,Model3\n  File \"/Users/uhhmed/gw-workspace/KVUvhl9AODHt/models_models.py\", line 1, in <module>\n    from functions_init import functions\nModuleNotFoundError: No module named 'functions_init'\n",
+  "history_begin_time" : 1667945778825,
+  "history_end_time" : 1667945780640,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "HKwfhw0QeEGM",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/HKwfhw0QeEGM/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/HKwfhw0QeEGM/models_init.py\", line 7, in <module>\n    from models_models import Model,Model3\n  File \"/Users/uhhmed/gw-workspace/HKwfhw0QeEGM/models_models.py\", line 1, in <module>\n    from . import functions\nImportError: attempted relative import with no known parent package\n",
+  "history_begin_time" : 1667945604806,
+  "history_end_time" : 1667945606799,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "le8YJPCIoRnt",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/le8YJPCIoRnt/features_constFeatures.py\", line 5, in <module>\n    from models_init import Model0\n  File \"/Users/uhhmed/gw-workspace/le8YJPCIoRnt/models_init.py\", line 4, in <module>\n    import models.addons as addons\nModuleNotFoundError: No module named 'models'\n",
+  "history_begin_time" : 1667945536621,
+  "history_end_time" : 1667945538487,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "xHo2eOz61YLH",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/xHo2eOz61YLH/features_constFeatures.py\", line 5, in <module>\n    from models import Model0\nModuleNotFoundError: No module named 'models'\n",
+  "history_begin_time" : 1667945347959,
+  "history_end_time" : 1667945349860,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "7V3TEE2I1y7I",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/7V3TEE2I1y7I/features_constFeatures.py\", line 4, in <module>\n    from geotiff import GeoTiff  \nModuleNotFoundError: No module named 'geotiff'\n",
+  "history_begin_time" : 1667945313847,
+  "history_end_time" : 1667945314603,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "eHGveDp4CixX",
+  "history_input" : "getdays = lambda keys: list(sorted([tday for tday in keys if tday[:4].isnumeric() and len(tday) == 10]))\n\nfrom features_constFeatures import getconstfeatures\nfrom features_modisFeatures import getmodisfeatures\nfrom features_datadict import getdatadict\nfrom features_embeddings import getembindex\nfrom features_inputs import getinputs",
+  "history_output" : "Traceback (most recent call last):\n  File \"features_init.py\", line 3, in <module>\n    from features_constFeatures import getconstfeatures\n  File \"/Users/uhhmed/gw-workspace/eHGveDp4CixX/features_constFeatures.py\", line 3, in <module>\n    import geojson\nModuleNotFoundError: No module named 'geojson'\n",
+  "history_begin_time" : 1667945198828,
+  "history_end_time" : 1667945203051,
+  "history_notes" : null,
+  "history_process" : "ub0pfz",
+  "host_id" : null,
+  "indicator" : "Failed"
+},]
